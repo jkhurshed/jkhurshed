@@ -26,8 +26,6 @@
 </div>
 
 ### :man_technologist: About Me : I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tajikistan.
-- :telescope: I’m interested in AI, ML and architecting RESTFULL services in Django.
-
 - :seedling: Currently I'm working in Django projects.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
